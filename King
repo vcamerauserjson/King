@@ -14,9 +14,9 @@
     },
 
     {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
+        "device_id": "f7d01dc5d104a103",
+        "key": "mycam@1",
+        "expirydate": "31-12-2027",
         "Allowoffline": true
     },
 
